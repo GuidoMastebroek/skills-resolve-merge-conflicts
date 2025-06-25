@@ -1,3 +1,3 @@
 # References
 ---
-- Octodog 2 🐶
+* Octodog 2 🐶
